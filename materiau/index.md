@@ -12,4 +12,4 @@ image:
 
 Tout le matériel est disponible sur [le dossier Google Drive public](https://drive.google.com/folderview?id=0B_y5OOvxKn3jcTVrTXc3WXhMUVE&usp=sharing).
 
-![dossier Google Drive](/images/drive.png)
+![dossier Google Drive](/ondh/images/drive.png)
