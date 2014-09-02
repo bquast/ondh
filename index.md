@@ -4,6 +4,6 @@ excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michae
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: roi-autoroute.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Ouassim Esmili
+  creditlink: http://www.maroc.ma/
 ---
