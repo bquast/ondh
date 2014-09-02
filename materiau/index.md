@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Matériel
-tags: [materiel]
-modified: 2014-09-02T11:42:07.573882-04:00
+title: Matériau
+tags: [materiau]
+modified: 2014-09-02T13:32:07.573882+01:00
 comments: true
 image:
   feature: texture-feature-02.jpg
@@ -10,4 +10,4 @@ image:
   creditlink: http://www.maroc.ma/
 ---
 
-Matériel
+Matériau
