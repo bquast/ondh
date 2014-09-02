@@ -5,7 +5,7 @@ modified: 2014-09-02
 comments: true
 image:
   feature: ambulance.jpg
-  credit: Province de Sidi Slimane
+  credit: INDH de Sidi Slimane
   creditlink: http://www.indhsidislimane.yolasite.com/
 ---
 
