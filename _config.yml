@@ -29,27 +29,21 @@ owner:
   name: Bastiaan Quast
   avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d
   bio: "superviseur de projet"
-  email:
+  email: bastiaan.quast@graduateinstitute.ch
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: baquast
+  facebook: baquast
   google:
-    plus: #username
+    plus: BastiaanQuast
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: bquast
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
