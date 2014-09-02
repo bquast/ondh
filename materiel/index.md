@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Materiel
+title: Matériel
 tags: [materiel]
 modified: 2014-09-02T11:42:07.573882-04:00
 comments: true
@@ -10,4 +10,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Materiel
+Matériel

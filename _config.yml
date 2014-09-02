@@ -28,12 +28,12 @@ kramdown:
 owner:
   name: Bastiaan Quast
   avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d
-  bio: "superviseur de projet"
+  bio: "assistant de recherche"
   email: bastiaan.quast@graduateinstitute.ch
   disqus-shortname:
   google:
     plus: BastiaanQuast
-    analytics:
+    analytics: UA-52945502-4
     verify:
     ad-client:
     ad-slot:
