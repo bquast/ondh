@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: matériau
+- title: matériaux
   url: /materiau
 
 - title: nouvelles
   url: /posts/
 
-- title: Sur
-  url: /sur/
+- title: Le projet
+  url: /projet/
