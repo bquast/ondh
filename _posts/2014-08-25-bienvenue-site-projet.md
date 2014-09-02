@@ -11,3 +11,6 @@ image:
 ---
 
 
+Bienvenue sur le site du projet pour la deuxième évaluation des effets du capital social de l'INDH.
+
+Le matériau des intervieweurs est disponible sur [la page de matériau](/materiau).
