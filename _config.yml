@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            ONDH
+locale:           fr_CH
 url:              http://qua.st/ondh
 
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Bastiaan Quast
+  avatar: http://gravatar.com/avatar/9f979d814c18db7e759b64ca8a52953d
+  bio: "superviseur de projet"
   email:
   disqus-shortname:
   twitter: #username
