@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "site du projet ONDH et CCDP"
+tags: [ONDH, CCDP, INDH]
 image:
   feature: roi-autoroute.jpg
   credit: Ouassim Esmili
