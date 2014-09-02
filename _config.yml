@@ -31,18 +31,14 @@ owner:
   bio: "superviseur de projet"
   email: bastiaan.quast@graduateinstitute.ch
   disqus-shortname:
-  twitter: baquast
-  facebook: baquast
   google:
     plus: BastiaanQuast
     analytics:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
   github: bquast
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: bquast@gmail.com
 
 
 include: [".htaccess"]
